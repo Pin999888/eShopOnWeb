@@ -9,7 +9,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-PIN
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: Azure Pass - Sponsorship
+  SUBSCRIPTION-ID: 6226b8ce-8e9f-44a5-95f1-5010b886ec11
   WEBAPP-NAME: eshoponweb-webapp-PIN
 
 
